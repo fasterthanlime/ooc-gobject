@@ -1,0 +1,5 @@
+Name: GObject 
+Description: GLib Runtime type identification and management system
+Pkgs: gobject-2.0
+Includes: glib-object.h
+SourcePath: source
